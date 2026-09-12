@@ -1,0 +1,14 @@
+number,category,name,price
+101,Drinks,Water,1.50
+102,Drinks,Lemonade,2.75
+103,Drinks,Iced Tea,2.50
+104,Drinks,Soda,2.25
+105,Drinks,Coffee,2.50
+201,Entrees,Cheeseburger,5.99
+202,Entrees,Southwest Salad,7.50
+203,Entrees,Spicy Tenders,6.99
+204,Entrees,Chicken Tenders,6.99
+205,Entrees,BBQ Tenders,6.99
+301,Sides,French Fries,2.99
+302,Sides,Side Salad,3.49
+304,Sides,Onion Rings,3.29
